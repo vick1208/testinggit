@@ -1,14 +1,9 @@
 #include <iostream>
 
-int 
-main(int argv, char ** argc)
+int main(int argv, char ** argc)
 {
-    // oh no, never ending loop
-    // this is a bug, not supposed to happen
-    // fix later PLZzZzZ
-    // Kappa
-    for(;;){
-	printf("nge bug ? 0.1 + 0.2 = %.20f        ", (0.1 + 0.2));
-	std::cout << "Haaaaaaaaaaaa ?" << std::endl;
-    }
+	int x = 0;
+    for(int i=0;i<10;i++) {
+		x = i;
+	}
 }
