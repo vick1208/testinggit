@@ -1,10 +1,12 @@
 {
-	"nim":"992017001",
-	"nama":"Jokondo Kondo",
-	"alamat":"Salatiga"
-},
-{
-	"nim":"992017002",
-	"nama":"Angelina",
-	"alamat":"Cirebon"
+	{
+		"nim":"992017001",
+		"nama":"Jokondo Kondo",
+		"alamat":"Salatiga"
+	},
+	{
+		"nim":"992017002",
+		"nama":"Angelina",
+		"alamat":"Cirebon"
+	}
 }
