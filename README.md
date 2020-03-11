@@ -5,7 +5,7 @@ Ini teks tambahan lhoooo
 ## Collabolators
 
 Watchers :
-  - Pratyaksa Ocsa __(@pratyaksaocsa)__ `xyxyxy`
+  - Pratyaksa Ocsa __(@pratyaksaocsa)__
 
 Worker :
-  - Erlangga Ibrahim __(@wowotek)__ `672017282`
+  - Kelvin Kurniawan Oktavianto __(@mastepin)__
