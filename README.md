@@ -8,4 +8,4 @@ Watchers :
   - Pratyaksa Ocsa __(@pratyaksaocsa)__
 
 Worker :
-  - Kelvin Kurniawan Oktavianto __(@mastepin)__
+  - Kelvin Kurniawan Oktavianto __(@kelvinkurniawan)__
