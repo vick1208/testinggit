@@ -2,7 +2,7 @@
 
 Ini teks tambahan lhoooo
 
-## Collabolators
+## Collaborators
 
 Watchers :
   - Pratyaksa Ocsa __(@pratyaksaocsa)__
