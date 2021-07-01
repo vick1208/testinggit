@@ -9,3 +9,4 @@ Watchers :
 
 Worker :
   - Kelvin Kurniawan Oktavianto __(@kelvinkurniawan)__
+  - Daniel Christian __(@danielchrist)__
